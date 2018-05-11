@@ -81,9 +81,7 @@ def ingredients():
         })
 
 
-
 ##NODES
-
 def nodes_ids():
     graph_name = read_config()
     graph_cnxn = connect_to_db()

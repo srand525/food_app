@@ -1,0 +1,7 @@
+how models relate to each other
+make api contain references to the related models
+can have one adapter called application
+
+git pull
+then cd front end 
+yarn
