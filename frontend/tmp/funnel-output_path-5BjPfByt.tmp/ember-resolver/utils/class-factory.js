@@ -1,0 +1,1 @@
+/Users/sophierand/Desktop/Github/foodApp/food_app/frontend/tmp/funnel-input_base_path-tsuNpM8Z.tmp/utils/class-factory.js

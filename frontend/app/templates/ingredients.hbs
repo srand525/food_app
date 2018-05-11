@@ -1,0 +1,12 @@
+<h2>Ingredients</h2>
+<h3> with garlic in them - let garlic be something i can grab from a POST op!</h3>
+
+{{input name='ingredient' value=model.ingname placeholder='What ingredient do you want to know more about?'}}
+
+<br><br>
+<button {{action 'submitForm'}}>Submit Ingredient!</button>
+<br><br>
+
+{{#link-to 'ingredient.nutrition'}}Nutritional information for ingredient XX{{/link-to}}
+<br><br><br><br>
+{{ingredient-component data=model}}

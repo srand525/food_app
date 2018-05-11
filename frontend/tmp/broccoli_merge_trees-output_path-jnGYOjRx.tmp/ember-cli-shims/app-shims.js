@@ -1,0 +1,1 @@
+/Users/sophierand/Desktop/Github/foodApp/food_app/frontend/tmp/broccoli_merge_trees-input_base_path-gPIRP5PY.tmp/0/ember-cli-shims/app-shims.js

@@ -1,0 +1,1 @@
+/Users/sophierand/Desktop/Github/foodApp/food_app/frontend/tmp/funnel-input_base_path-Og8g9UKC.tmp/services/ajax.js
