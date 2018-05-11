@@ -1,6 +1,0 @@
-define("ember-models-table/templates/components/models-table/cell-edit-toggle", ["exports"], function (exports) {
-  "use strict";
-
-  exports.__esModule = true;
-  exports.default = Ember.HTMLBars.template({ "id": "MgfCRkEG", "block": "{\"symbols\":[],\"statements\":[[4,\"if\",[[22,[\"isEditRow\"]]],null,{\"statements\":[[0,\"    \"],[6,\"button\"],[11,\"class\",[22,[\"themeInstance\",\"cancel-row-button\"]],null],[11,\"onclick\",[26,\"action\",[[21,0,[]],\"cancelClicked\"],null],null],[8],[0,\"\\n      \"],[1,[20,\"cancelButtonLabel\"],false],[0,\"\\n    \"],[9],[0,\"\\n    \"],[6,\"button\"],[11,\"class\",[22,[\"themeInstance\",\"save-row-button\"]],null],[11,\"onclick\",[26,\"action\",[[21,0,[]],\"saveClicked\"],null],null],[8],[0,\"\\n      \"],[1,[20,\"saveButtonLabel\"],false],[0,\"\\n    \"],[9],[0,\"\\n\"]],\"parameters\":[]},{\"statements\":[[0,\"    \"],[6,\"button\"],[11,\"class\",[22,[\"themeInstance\",\"edit-row-button\"]],null],[11,\"onclick\",[26,\"action\",[[21,0,[]],\"editClicked\"],null],null],[8],[0,\"\\n      \"],[1,[20,\"editButtonLabel\"],false],[0,\"\\n    \"],[9],[0,\"\\n\"]],\"parameters\":[]}]],\"hasEval\":false}", "meta": { "moduleName": "ember-models-table/templates/components/models-table/cell-edit-toggle.hbs" } });
-});

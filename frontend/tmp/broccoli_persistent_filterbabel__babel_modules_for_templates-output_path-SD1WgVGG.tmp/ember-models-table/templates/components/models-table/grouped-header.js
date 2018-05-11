@@ -1,6 +1,0 @@
-define("ember-models-table/templates/components/models-table/grouped-header", ["exports"], function (exports) {
-  "use strict";
-
-  exports.__esModule = true;
-  exports.default = Ember.HTMLBars.template({ "id": "t6ZgJ1cs", "block": "{\"symbols\":[\"cell\",\"&default\"],\"statements\":[[4,\"if\",[[23,2]],null,{\"statements\":[[0,\"  \"],[13,2],[0,\"\\n\"]],\"parameters\":[]},{\"statements\":[[4,\"if\",[[26,\"and\",[[26,\"is-equal\",[[22,[\"displayGroupedValueAs\"]],\"column\"],null],[22,[\"useDataGrouping\"]]],null]],null,{\"statements\":[[0,\"    \"],[6,\"th\"],[8],[9],[0,\"\\n\"]],\"parameters\":[]},null],[4,\"each\",[[22,[\"groupedHeader\"]]],null,{\"statements\":[[0,\"    \"],[6,\"th\"],[11,\"colspan\",[27,[[21,1,[\"colspan\"]]]]],[11,\"rowspan\",[27,[[21,1,[\"rowspan\"]]]]],[8],[1,[21,1,[\"title\"]],false],[9],[0,\"\\n\"]],\"parameters\":[1]},null]],\"parameters\":[]}]],\"hasEval\":false}", "meta": { "moduleName": "ember-models-table/templates/components/models-table/grouped-header.hbs" } });
-});

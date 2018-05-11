@@ -1,1 +1,0 @@
-/Users/sophierand/Desktop/Github/foodApp/food_app/frontend/tmp/broccoli_merge_trees-input_base_path-Jw1nf95U.tmp/4/initializers/export-application-global.js

@@ -1,1 +1,0 @@
-/Users/sophierand/Desktop/Github/foodApp/food_app/frontend/tmp/broccoli_merge_trees-input_base_path-YuAgU3xC.tmp/0/frontend/tests/tests.lint-test.js

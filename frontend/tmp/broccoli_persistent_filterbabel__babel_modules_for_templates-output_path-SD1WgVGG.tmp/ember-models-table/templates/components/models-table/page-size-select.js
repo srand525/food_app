@@ -1,6 +1,0 @@
-define("ember-models-table/templates/components/models-table/page-size-select", ["exports"], function (exports) {
-  "use strict";
-
-  exports.__esModule = true;
-  exports.default = Ember.HTMLBars.template({ "id": "53JwbmQt", "block": "{\"symbols\":[\"pss\",\"&default\"],\"statements\":[[4,\"with\",[[26,\"hash\",null,[[\"select\",\"themeInstance\",\"pageSizeOptions\",\"pageSize\",\"sendAction\"],[[26,\"component\",[[22,[\"themeInstance\",\"components\",\"select\"]]],[[\"options\",\"value\",\"type\",\"themeInstance\",\"sendAction\",\"class\"],[[22,[\"pageSizeOptions\"]],[22,[\"pageSize\"]],[22,[\"type\"]],[22,[\"themeInstance\"]],[22,[\"sendAction\"]],\"changePageSize\"]]],[22,[\"themeInstance\"]],[22,[\"pageSizeOptions\"]],[22,[\"pageSize\"]],[22,[\"sendAction\"]]]]]],null,{\"statements\":[[4,\"if\",[[23,2]],null,{\"statements\":[[0,\"    \"],[13,2,[[21,1,[]]]],[0,\"\\n\"]],\"parameters\":[]},{\"statements\":[[0,\"    \"],[1,[26,\"component\",[[21,1,[\"select\"]]],null],false],[0,\"\\n\"]],\"parameters\":[]}]],\"parameters\":[1]},null]],\"hasEval\":false}", "meta": { "moduleName": "ember-models-table/templates/components/models-table/page-size-select.hbs" } });
-});

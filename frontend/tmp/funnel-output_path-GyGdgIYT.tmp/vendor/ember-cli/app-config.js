@@ -1,1 +1,0 @@
-/Users/sophierand/Desktop/Github/foodApp/food_app/frontend/tmp/funnel-input_base_path-J6Rrj3l2.tmp/app-config.js

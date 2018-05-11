@@ -1,6 +1,0 @@
-define("ember-models-table/templates/components/models-table/row-expand", ["exports"], function (exports) {
-  "use strict";
-
-  exports.__esModule = true;
-  exports.default = Ember.HTMLBars.template({ "id": "3CZnKvWp", "block": "{\"symbols\":[\"&default\"],\"statements\":[[6,\"td\"],[11,\"colspan\",[27,[[22,[\"visibleProcessedColumns\",\"length\"]]]]],[8],[0,\"\\n\"],[4,\"if\",[[23,1]],null,{\"statements\":[[0,\"    \"],[13,1,[[26,\"hash\",null,[[\"expandedRowComponent\",\"record\",\"visibleProcessedColumns\",\"index\",\"clickOnRow\",\"sendAction\",\"themeInstance\"],[[22,[\"expandedRowComponent\"]],[22,[\"record\"]],[22,[\"visibleProcessedColumns\"]],[22,[\"index\"]],[22,[\"clickOnRow\"]],[22,[\"sendAction\"]],[22,[\"themeInstance\"]]]]]]],[0,\"\\n\"]],\"parameters\":[]},{\"statements\":[[0,\"    \"],[1,[26,\"component\",[[22,[\"expandedRowComponent\"]]],[[\"record\",\"visibleProcessedColumns\",\"index\",\"clickOnRow\",\"sendAction\",\"themeInstance\"],[[22,[\"record\"]],[22,[\"visibleProcessedColumns\"]],[22,[\"index\"]],[22,[\"clickOnRow\"]],[22,[\"sendAction\"]],[22,[\"themeInstance\"]]]]],false],[0,\"\\n\"]],\"parameters\":[]}],[9]],\"hasEval\":false}", "meta": { "moduleName": "ember-models-table/templates/components/models-table/row-expand.hbs" } });
-});
