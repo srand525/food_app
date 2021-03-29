@@ -10,7 +10,7 @@ numpy==1.14.2
 OWSLib==0.16.0
 psycopg2==2.7.4
 py2neo==3.1.2
-Pygments==2.2.0
+Pygments==2.7.4
 pyproj==1.9.5.1
 python-dateutil==2.7.0
 pytz==2018.3
